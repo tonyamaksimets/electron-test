@@ -1,0 +1,11 @@
+{
+  "name": "electron-test",
+  "description": "Тестовое задание Максимец А. П.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^7.1.2"
+  }
+}
